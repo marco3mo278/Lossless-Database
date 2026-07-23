@@ -1,6 +1,136 @@
 {
   "items": [
     {
+      "song": "Run This Town (feat. Kanye West & Rihanna)",
+      "artist": "JAY-Z",
+      "url": "https://lossless.echomusic.fun/Music/samey93-1784821590931-jay_z_-_run_this_town.flac"
+    },
+    {
+      "song": "Ransom",
+      "artist": "Lil Tecca",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-ransom.flac"
+    },
+    {
+      "song": "Jo Tere Sang",
+      "artist": "Jeet Gannguli, Mustafa Zahid & Sayeed Quadri",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-jo_tere_sang.flac"
+    },
+    {
+      "song": "Enna Sona (From \"OK Jaanu\")",
+      "artist": "A.R. Rahman & Arijit Singh",
+      "url": "https://lossless.echomusic.fun/Music/goeltrying-1784832036045-enna_sona__from_ok_jaanu___-_a.r._rahman__arijit_singh.flac"
+    },
+    {
+      "song": "Ishq Sufiyana (Male)",
+      "artist": "Kamal Khan, Vishal-Shekhar, & Rajat Arora",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-ishq_sufiyana_male.flac"
+    },
+    {
+      "song": "A Place With No Name",
+      "artist": "Michael Jackson",
+      "url": "https://lossless.echomusic.fun/Music/alexander-778-1784824133443-michael_jackson_-_a_place_with_no_name__original_version_.flac"
+    },
+    {
+      "song": "PRADA",
+      "artist": "STOSLIV & IRIAS",
+      "url": "https://lossless.echomusic.fun/Music/samey93-1784821690928-stosliv_-_prada.flac"
+    },
+    {
+      "song": "Phantom",
+      "artist": "EsDeeKid & Rico Ace",
+      "url": "https://lossless.echomusic.fun/Music/aaravtheteckgeek-1784802639375-esdeekid_-_phantom.flac"
+    },
+    {
+      "song": "Arakkonam Style",
+      "artist": "Govind Vasantha, Arivu, Gana Balachandar",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-arakkonam_style.flac"
+    },
+    {
+      "song": "Blue Star Anthem",
+      "artist": "Govind Vasantha, Arivu",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-blue_star_anthem.flac"
+    },
+    {
+      "song": "Railai Thallum Meghame",
+      "artist": "Govind Vasantha, Arivu, & Kareeshma",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-railai_thallum_meghame.flac"
+    },
+    {
+      "song": "Railin Oligal",
+      "artist": "Govind Vasantha, Pradeep Kumar, & Shakthishree Gopalan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-railin_oligal.flac"
+    },
+    {
+      "song": "Yaar Nee",
+      "artist": "Govind Vasantha, Arivu, Vedan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-yaar_nee.flac"
+    },
+    {
+      "song": "Vaaroon Ft. Romy_Ginny Diwan",
+      "artist": "Anand Bhaskar",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-vaaroon_ft_romy_ginny_diwan.flac"
+    },
+    {
+      "song": "Dagabaaz Re",
+      "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal & Shadab Faridi",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-dagabaaz_re.flac"
+    },
+    {
+      "song": "110% Juice (feat. Boo Love)",
+      "artist": "Snoop Dogg",
+      "url": "https://lossless.echomusic.fun/Music/alexander-778-1784823444224-snoop_dogg_-_110__juice.flac"
+    },
+    {
+      "song": "That's That S*** (feat. R. Kelly)",
+      "artist": "Snoop Dogg",
+      "url": "https://lossless.echomusic.fun/Music/alexander-778-1784823773634-snoop_dogg_-_that_s_that_shit.flac"
+    },
+    {
+      "song": "That's That Shit (feat. R. Kelly)",
+      "artist": "Snoop Dogg",
+      "url": "https://lossless.echomusic.fun/Music/alexander-778-1784823773634-snoop_dogg_-_that_s_that_shit.flac"
+    },
+    {
+      "song": "Nache Nache (From \"The RajaSaab\") (Hindi)",
+      "artist": "Thaman S, Nakash Aziz, Brinda, Farooq Qaiser, Raqueeb Alam, and Usha Uthup",
+      "url": "https://lossless.echomusic.fun/Music/chandanavikas58-1784816234744-13_-_nache_nache__from_the_rajasaab____hindi__-_thaman_s__nakash_aziz__brinda__farooq_qaiser__raqueeb_alam__usha_uthup.flac"
+    },
+    {
+      "song": "Rottweiler",
+      "artist": "EsDeeKid",
+      "url": "https://lossless.echomusic.fun/Music/aaravtheteckgeek-1784802719200-esdeekid_-_rottweiler.flac"
+    },
+    {
+      "song": "It's Tricky",
+      "artist": "RUN DMC",
+      "url": "https://lossless.echomusic.fun/Music/samey93-1784821441387-run-dmc_-_it_s_tricky.flac"
+    },
+    {
+      "song": "1000 Blunts",
+      "artist": "$uicideboy$",
+      "url": "https://lossless.echomusic.fun/Music/samey93-1784821314048-_uicideboy__-_1000_blunts.flac"
+    },
+    {
+      "song": "Counting Stars",
+      "artist": "OneRepublic",
+      "url": "https://lossless.echomusic.fun/Music/goeltrying-1784832136421-counting_stars_-_onerepublic.flac"
+    },
+    {
+      "song": "Sahiba",
+      "artist": "Aditya Rikhari",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-sahiba.flac"
+    },
+    {
+      "song": "Locked Up (feat. Azad)",
+      "artist": "Akon",
+      "url": "https://lossless.echomusic.fun/Music/samey93-1784822492683-akon_-_locked_up.flac"
+    },
+    {
+      "song": "Best Friend (Remix)",
+      "artist": "50 Cent & Olivia",
+      "url": "https://lossless.echomusic.fun/Music/samey93-1784821946034-50_cent_-_best_friend__remix_.flac"
+    },
+    {
       "song": "Pee Loon",
       "artist": "MOHIT CHAUHAN, PRITAM & IRSHAD KAMIL",
       "url": "https://lossless.echomusic.fun/Music/hakishi-pee_loon.flac"
